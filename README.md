@@ -76,7 +76,7 @@ const developer = {
 ### 🛒 Smart Shopping Assistant
 **`Full-Stack E-commerce Platform with ML Recommendations`**
 
-[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](GITHUB_REPO_LINK)
+[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/amey301/smart-shopping-assistant.git)
 
 **Tech Stack:** `Angular` `Node.js` `Express` `MongoDB` `Flask` `Machine Learning`
 
@@ -92,7 +92,7 @@ const developer = {
 ### 📌 Pinterest Clone
 **`Social Media Platform for Content Sharing`**
 
-[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](GITHUB_REPO_LINK)
+[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/amey301/pinterest-clone.git)
 
 **Tech Stack:** `Angular` `Node.js` `Express` `MongoDB`
 
@@ -106,7 +106,7 @@ const developer = {
 ### 📈 Trade Tracker
 **`Trading Portfolio Management Platform`**
 
-[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](GITHUB_REPO_LINK)
+[![Source Code](https://img.shields.io/badge/⚡_Source_Code-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/amey301/trade-tracker.git)
 
 **Tech Stack:** `Angular` `Node.js` `Express` `MongoDB`
 
@@ -125,7 +125,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true&background=ffffff&ring=007AFF&fire=007AFF&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=333333"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amey301&theme=minimal&hide_border=true&background=ffffff&ring=007AFF&fire=007AFF&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=333333"/>
 </div>
 
 ---
@@ -170,7 +170,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=007AFF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amey301&color=007AFF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
