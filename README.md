@@ -10,7 +10,7 @@
 
 **Building digital experiences that just work.**
 
-Fresh graduate passionate about creating seamless web applications. Recently completed a **6-month Web Developer Internship** at **XYZ Limited**. I love crafting clean code, intuitive interfaces, and bringing ideas to life through technology.
+Fresh graduate passionate about creating seamless web applications. Recently completed a **6-month Web Developer Internship** at **The Tata Power Company Limited**. I love crafting clean code, intuitive interfaces, and bringing ideas to life through technology.
 
 ```javascript
 const developer = {
@@ -162,7 +162,7 @@ const developer = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-007AFF?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:yashwantraoamey099@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.ameyyashwantrao-verce-app.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.ameydev.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amey301)
 
 </div>
